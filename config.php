@@ -5,7 +5,7 @@ directorio en el que se encuentra el archivo PHP actual.
 */
 define('ROOT_PATH', realpath(dirname(__FILE__)));
 #BASE_URL: Contiene la URL base del sitio web.
-define('BASE_URL', 'http://localhost/G-Teck/');
+define('BASE_URL', 'https://g-teck.vercel.app/');
 
 //Fecha y hora de mexico
 date_default_timezone_set('America/Mexico_City');
