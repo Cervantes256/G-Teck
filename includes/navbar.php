@@ -19,7 +19,7 @@
                                 <ul class="sub-menu">
                                     <li><a href="404.html">Misión</a></li>
                                     <li><a href="about.html">Visión</a></li>
-                                    <li><a href="cart.html">¿Quienes somos?</a></li>
+                                    <li><a href="aboutus.php">¿Quienes somos?</a></li>
                                 </ul>
                             </li>
                             <li><a href="news.html">Equipos</a>

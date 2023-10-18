@@ -2058,7 +2058,7 @@ a.video-play-btn {
 }
 
 .abt-bg {
-  background-image: url(../img/abt.jpg);
+  background-image: url(../img/logo.png);
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -2150,7 +2150,7 @@ a.video-play-btn {
 }
 
 .feature-bg:after {
-  background-image: url(../img/feature-bg.jpg);
+  background-image: url(../img/Logo-TB.png);
   position: absolute;
   right: 0;
   top: 0;
@@ -2163,6 +2163,8 @@ a.video-play-btn {
   -webkit-box-shadow: 0 0 20px #cacaca;
   box-shadow: 0 0 20px #cacaca;
   border-bottom-left-radius: 5px;
+  font-size: 16px;
+
 }
 
 .team-bg-1 {
